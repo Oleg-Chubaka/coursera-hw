@@ -1,2 +1,2 @@
-# coursera-hw
-Coursera homework for "HTML, CSS, and Javascript for Web Developers" course
+# coursera-hws
+Coursera homeworks for "HTML, CSS, and Javascript for Web Developers" course
