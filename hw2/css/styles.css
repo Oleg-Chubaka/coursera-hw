@@ -1,0 +1,86 @@
+body {
+  background-color: #61122f;
+  color: #ffffff;
+  padding-bottom: 20px;
+}
+
+#header-nav {
+  background-color: #f6b319;
+  border-radius: 0;
+  border: 0;
+}
+
+#brand {
+  color: rgb(41, 28, 0);
+  font-weight: bold;
+  font-size: 25px;
+  padding-left: 15px;
+}
+
+#button {
+  border-color: #61122f;
+  background-color: #f6b319;
+}
+
+#button .icon-bar, #button:focus .icon-bar{
+  background-color: #61122f;
+}
+
+#button:hover {
+  background-color: #61122f;
+}
+
+
+
+#button:hover .icon-bar{
+  background-color: #f6b319;
+}
+
+#menu{
+  padding: 0;
+  border: 0;
+}
+
+#menu ul {
+  background: #f5db9f6b;
+  font-size: 16px;
+  border-top: 2px solid #61122f;
+  margin: 0;
+}
+
+#menu li {
+  border-bottom: 2px solid #61122f;
+}
+
+#menu li #maroon{
+  color: #61122f;
+}
+
+#menu li:hover {
+  background: #61122f55;
+}
+
+#big-lorem{
+  background-color: #fdb4cfa4;
+  padding: 15px 10px 8px;
+  color: #350416;
+  margin-bottom: 15px;
+}
+
+.top {
+  position: fixed;
+  width: 50px;
+  height: 50px;
+  background-color: rgb(255, 255, 255);
+  bottom: 10px;
+  right: 10px;
+  border-radius: 5px;
+  padding: 7px 0;
+  
+}
+
+.icon-top, .icon-top:hover, .icon-top:active, .icon-top:focus, .icon-top:visited{
+  color: #61122f;
+  font-weight: bold;
+  font-size: 30px;
+}
