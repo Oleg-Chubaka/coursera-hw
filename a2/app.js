@@ -28,7 +28,8 @@ function ShoppingListCheckOffService() {
     { name: "cookies", quantity: 10 },
     { name: "milk", quantity: 7 },
     { name: "chips", quantity: 5 },
-    { name: "soda", quantity: 6 }];
+    { name: "soda", quantity: 6 },
+    { name: "kefir", quantity: 1000 }];
 
   var boughtItems = [];
 
